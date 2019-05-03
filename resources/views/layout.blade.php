@@ -12,6 +12,10 @@
 </head>
 <body>
 
+<ul>
+    <li><a href="/contact-us">Контакты</a></li>
+</ul>
+
 @yield('content')
 
 <!-- Optional JavaScript -->
